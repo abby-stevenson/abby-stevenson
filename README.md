@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi There 👋
 <!--
 **abby-stevenson/abby-stevenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Abby Stevenson 
-She/Her
+Abby Stevenson <br />
+She/Her <br /> 
 
-Education
-**Northeastern University**, Khoury College of Computer Sciences
-*Candidate: Bachelor of Science in Computer Science*
-Boston, MA • Sep 2023 - May 2027
+## Education <br /> 
+**Northeastern University**, Khoury College of Computer Sciences <br /> 
+*Candidate: Bachelor of Science in Computer Science* <br /> 
+Boston, MA • Sep 2023 - May 2027 <br /> 
